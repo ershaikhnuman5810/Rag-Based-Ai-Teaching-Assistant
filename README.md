@@ -111,3 +111,32 @@ Which course video explains the video tag?
 At what timestamp is a particular topic discussed?
 
 Answers depend on the information available in the course materials.
+Rag-Based-AI-Teaching-Assistant/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+│
+├── notebooks/
+│   └── RAG-BASED AI TEACHING ASSISTANT.ipynb
+│
+├── data/
+│   └── course_materials/
+│       ├── 1_Installing VS Code & How Websites Work.mp3.json
+│       ├── 2_Your First HTML Website.mp3.json
+│       ├── 3_Basic Structure of an HTML Website.mp3.json
+│       ├── 4_Heading, Paragraphs and Links.mp3.json
+│       ├── 5_Image, Lists, and Tables in HTML.mp3.json
+│       ├── 6_SEO and Core Web Vitals in HTML.mp3.json
+│       ├── 7_Forms and input tags in HTML.mp3.json
+│       ├── 8_Inline & Block Elements in HTML.mp3.json
+│       ├── 9_Id & Classes in HTML.mp3.json
+│       ├── 10_Video, Audio & Media in HTML.mp3.json
+│       ├── 11_Semantic Tags in HTML.mp3.json
+│       ├── 12_Exercise 1 - Pure HTML Media Player.mp3.json
+│       ├── 13_Entities, Code tag and more on HTML.mp3.json
+│       ├── 14_Introduction to CSS.mp3.json
+│       ├── 15_Inline, Internal & External CSS.mp3.json
+│       ├── 16_Exercise 1 - Solution & Shoutouts.mp3.json
+│       ├── 17_CSS Selectors MasterClass.mp3.json
+│       └── 18_CSS Box Model - Margin, Padding & Border.mp3.json
